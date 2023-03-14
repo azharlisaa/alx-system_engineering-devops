@@ -1,0 +1,2 @@
+chmod u+x  8-true_knowledge
+echo $(($TRUEKNOWLEDGE + 128))
